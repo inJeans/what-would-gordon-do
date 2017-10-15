@@ -2,6 +2,9 @@ from __future__ import print_function
 
 
 def main():
+    """
+        Doc string test.
+    """
 
     print("Hello World!")
 
